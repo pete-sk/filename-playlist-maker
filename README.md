@@ -10,8 +10,8 @@ Select a folder to work on. Not recommended as you won't be able to recover dele
 Select a folder previously created with this app. Detects prefixes after loading filenames and ignores them. To add more songs to a playlist, simply copy them into the folder and edit it in this mode. New files will get indexed and prefixes will be added after saving changes.
 
 ## Screenshots
-![Screenshot 1](/screenshots/1.png)
-![Screenshot 2](/screenshots/2.png)
+![Screenshot 1](/Screenshots/1.png)
+![Screenshot 2](/Screenshots/2.png)
 
 Filenames after editing:
-![Screenshot 3](/screenshots/3.png)
+![Screenshot 3](/Screenshots/3.png)
